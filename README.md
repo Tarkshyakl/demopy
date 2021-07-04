@@ -1,2 +1,2 @@
 # demopy
-Demo Codes of Python
+Demo Codes of Python examples
